@@ -1263,10 +1263,10 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera -btlfxallowanyaddr -lilubetaall revpatch=sbvmm</string>
+				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera -btlfxallowanyaddr</string>
 				<key>csr-active-config</key>
 				<data>
-				AAAAAA==
+				AwgAAA==
 				</data>
 				<key>prev-lang:kbd</key>
 				<data>
